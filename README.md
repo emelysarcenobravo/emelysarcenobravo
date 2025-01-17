@@ -3,7 +3,7 @@
 - 🌱 I’m currently majoring in Computer Science 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: https://www.linkedin.com/in/emely-sarceno-bravo/
-- - 📚 Student GitHub account: https://github.com/emsarcenobravo
+- 📚 Student GitHub account: https://github.com/emsarcenobravo
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy baking!
 
